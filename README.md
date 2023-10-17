@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @LaCometeCookie
 - 👀 I’m interested in History and space
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning C++
+- Programmer in C, Python, SQL
 
 <!---
 LaCometeCookie/LaCometeCookie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
