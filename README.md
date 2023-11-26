@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LaCometeCookie
-- 👀 I’m interested in History and space
+- 👀 I’m interested in New Technologies, AI and Space
 - 🌱 I’m currently learning C++
 - Programmer in C, Python, SQL
 
